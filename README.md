@@ -1,3 +1,7 @@
 # Modify this portfolio
 
-Make it your own! 
+## Why?
+
+- Building this webstie for an assignment in my intermediate software development course
+
+- Link to [live site](https://codys-301-portfolio.netlify.app/)
