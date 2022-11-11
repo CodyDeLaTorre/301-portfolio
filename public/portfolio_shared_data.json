@@ -34,14 +34,14 @@
           "level": "70"
         },
         {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "70"
+        },
+        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         },
         {
           "name": "Python",
