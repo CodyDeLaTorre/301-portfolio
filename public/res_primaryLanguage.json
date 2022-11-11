@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Cody De La Torre. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Thanks for visiting my site!",
+      "description": "👋  My name is Code De La Torre, and I am a Software Developer with a military background. I spent five years in the Army working as an all-source intelligence analyst and personnel security manager. I led junior soldiers, managed over 500 cleared personnel files while keeping them up to date on security training, and gave enemy update briefs to commanders.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
