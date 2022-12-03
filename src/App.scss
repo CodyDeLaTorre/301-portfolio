@@ -113,7 +113,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background:#02735E;
 	overflow: hidden;
 }
 
@@ -122,7 +122,7 @@ header h1 {
 	font: 18px/24px 'opensans-bold', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: black;
+	color:#F27405;
 	text-align: center;
 }
 
@@ -343,7 +343,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #02735E;
+	background: #185046;
 	padding-bottom: 5%;
 }
 
@@ -379,7 +379,10 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	
+	background-image: url(https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+	background-repeat: no-repeat;
+	background-size:cover;
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -401,6 +404,10 @@ header h1 {
 	color: white;
 	text-align: center;
 	position: relative;
+}
+
+.skills-tile {
+	background-color: #1F1F1F;
 }
 
 footer {
@@ -438,9 +445,7 @@ div.title-container{
 }
 
 #resume{
-	background-image: url(https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
-	background-repeat: no-repeat;
-	background-size: cover;
+	background: #185046;
 }
 
 a {
@@ -448,7 +453,7 @@ a {
 }
 
 .nav-item{
-	color:#F27405;
+	color:#F27405 !important;
 }
 
 .vertical-timeline-element-date{
@@ -457,4 +462,14 @@ a {
 
 .section-title{
 	color:#F27405
+}
+
+
+.col-md-12 {
+	padding-top: -10px;
+	margin-bottom: -10px;
+}
+
+footer a:hover{
+	color:#02735E
 }
