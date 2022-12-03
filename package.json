@@ -18,7 +18,8 @@
     "react-router-dom": "^6.4.3",
     "react-scripts": "5.0.1",
     "react-vertical-timeline-component": "^3.5.2",
-    "sass": "^1.56.1"
+    "sass": "^1.56.1",
+    "typed.js": "^2.0.12"
   },
   "scripts": {
     "start": "react-scripts start",

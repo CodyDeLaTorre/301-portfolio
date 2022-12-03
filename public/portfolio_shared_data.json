@@ -34,6 +34,21 @@
           "level": "70"
         },
         {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain",
+          "level": "70"
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "70"
+        },
+        {
           "name": "React",
           "class": "devicon-react-plain",
           "level": "70"
@@ -44,8 +59,8 @@
           "level": "85"
         },
         {
-          "name": "Python",
-          "class": "devicon-python-plain",
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
           "level": "60"
         }
       ]
