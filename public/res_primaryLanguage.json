@@ -35,12 +35,11 @@
         ]
       },
       {
-        "title": "301 Final Project Placeholder",
+        "title": "My Virtual Portfolio",
         "startDate": "2022",
-        "description": "Gonna be super dope probably",
+        "description": "A website that allows you track stock data using an polygon.io API. I created this with three other devs.",
         "images": [
-          "",
-          ""
+          "images/portfolio/my-vir-port.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -109,7 +108,7 @@
           ""
         ],
         "technologies": [
-          ""
+          "Diss", "JPAS" , "SWFT"
         ]
       }
     ]
