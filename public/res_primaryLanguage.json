@@ -56,8 +56,66 @@
             "name": "CSS"
           },
           {
+            "class": "devicon-react-plain",
+            "name": "React.JS"
+          },
+          {
             "class": "devicon-mongodb-plain",
             "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Virtual Bookshelf",
+        "startDate": "2022",
+        "description": "A website that allows you input books you've read. Built with one other developer.",
+        "images": [
+          "images/portfolio/canobooks.png"
+        ],
+        "url": "https://can-of-books-12.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React.JS"
+          }
+        ]
+      },
+      {
+        "title": "City Explorer",
+        "startDate": "2022",
+        "description": "A website that allows you to find locations and have the displayed on a map using location.iq api. You can also see movies with name of the city in it using moviedatabase api",
+        "images": [
+          "images/portfolio/city-explorer.png"
+        ],
+        "url": "https://city-explorer-234.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React.JS"
           }
         ]
       },
