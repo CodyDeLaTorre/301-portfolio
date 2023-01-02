@@ -31,7 +31,7 @@ html {
 
 header {
 	position: relative;
-	height: 500px;
+	height: 400px;
 	min-height: 400px;
 	width: 100%;
 	background-size: cover;
@@ -39,8 +39,6 @@ header {
 	text-align: center;
 	overflow: hidden;
 	background-color: #014040;
-	// background-image: url(../public/images/Plasma.mp4);
-	// background-repeat: repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -87,7 +85,7 @@ header .nav {
 }
 
 header h1 {
-	font-size: 600%;
+	font-size: 700%;
 	text-align: center;
 	font-weight: 600 !important;
 	color: #F27405;
@@ -444,7 +442,7 @@ h1.mb-0 {
 
 div.title-container{
 	color: #F27405;
-	font-size: larger;
+	font-size: large;
 }
 
 #resume{

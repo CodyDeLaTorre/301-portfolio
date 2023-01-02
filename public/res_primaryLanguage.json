@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Thanks for visiting my site!",
-      "description": "👋  My name is Code De La Torre, and I am a Software Developer with a military background. I spent five years in the Army working as an all-source intelligence analyst and personnel security manager. I led junior soldiers, managed over 500 cleared personnel files while keeping them up to date on security training, and gave enemy update briefs to commanders. I made a career change in September of 2022 to become a Software Developer because I found a passion for coding when I took a python class at Arizona State University.",
+      "description": "👋  My name is Code De La Torre, and I am a Software Developer with a military background. I spent five years in the Army working as an all-source intelligence analyst and personnel security manager. I led junior soldiers, managed over 500 cleared personnel files while keeping them up to date on security training, and gave enemy update briefs to commanders. I made a career change to Software Developement because I love to solve complex problems and build beautiful applications",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -54,6 +54,10 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
           }
         ]
       },
