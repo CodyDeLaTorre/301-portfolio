@@ -66,6 +66,41 @@
         ]
       },
       {
+        "title": "Stream Stats",
+        "startDate": "2023",
+        "description": "A Jupyter Notebkook similar to Spotify Wrapped but with my Netflix user data and the Movie Database API. I created this with three other devs.",
+        "images": [
+          "images/portfolio/streamstats/streamstats1.png",
+          "images/portfolio/streamstats/streamstats2.png"
+        ],
+        "url": "https://www.kaggle.com/code/codydelatorre/cody-stream-stats/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-kaggle-original",
+            "name": "Kaggle"
+          },{
+            "class": "devicon-pandas-original",
+            "name": "Pandas"
+          },
+          {
+            "class": "devicon-numpy-original",
+            "name": "Numpy"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-markdown-original",
+            "name": "Markdown"
+          }
+        ]
+      },
+      {
         "title": "Virtual Bookshelf",
         "startDate": "2022",
         "description": "A website that allows you input books you've read. Built with one other developer.",
