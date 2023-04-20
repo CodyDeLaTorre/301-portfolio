@@ -38,7 +38,7 @@ class Experience extends Component {
               textAlign: "center",
             }}
             
-            icon={<i className="fab fa-js experience-icon"></i>}
+            icon={<i className="fa-solid fa-briefcase experience-icon"></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>

@@ -181,9 +181,24 @@
     ],
     "experience": [
       {
+        "company": "Sentar",
+        "title": "Software Test Engineer",
+        "years": "03.2023 - present",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "Python",
+          "Pytest",
+          "Gtest",
+          "IBM Jazz",
+          "IBM Doors"
+        ]
+      },
+      {
         "company": "Code Fellows",
         "title": "Software Developer Student",
-        "years": "09.2022 - present",
+        "years": "09.2022 - 02.2023",
         "mainTech": [
           "JavaScript"
         ],

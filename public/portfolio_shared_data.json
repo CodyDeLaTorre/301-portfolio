@@ -39,6 +39,16 @@
           "level": "60"
         },
         {
+          "name": "Django",
+          "class":"devicon-django-plain",
+          "level": "60"
+        },
+        {
+          "name": "Pytest",
+          "class": "devicon-pytest-plain",
+          "level": "60"
+        },
+        {
           "name": "Kaggle",
           "class": "devicon-kaggle-original",
           "level": "60"
