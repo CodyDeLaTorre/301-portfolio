@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Cody De La Torre",
-      "titles": [ "A junior software developer passionate about writing clean and efficient code while providing customers with quality products." ],
+      "titles": [ "A quality assurance analyst passionate about writing clean and efficient code while providing customers with quality products." ],
       "social": [
         {
           "name": "github",
@@ -19,6 +19,21 @@
     "skills": {
       "icons": [
         {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        },
+        {
+          "name": "Go",
+          "class": "devicon-go-plain",
+          "level": "60"
+        },
+        {
+          "name": "C++",
+          "class": "devicon-cplusplus-plain",
+          "level": "60"
+        },
+        {
           "name": "HTML 5",
           "class": "devicon-html5-plain",
           "level": "95"
@@ -34,9 +49,9 @@
           "level": "70"
         },
         {
-          "name": "Python",
-          "class": "devicon-python-plain",
-          "level": "60"
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": "70"
         },
         {
           "name": "Django",
@@ -59,18 +74,8 @@
           "level": "60"
         },
         {
-          "name": "Numpy",
-          "class": "devicon-numpy-original",
-          "level": "60"
-        },
-        {
           "name": "Linux",
           "class": "devicon-linux-plain",
-          "level": "70"
-        },
-        {
-          "name": "Git",
-          "class": "devicon-git-plain",
           "level": "70"
         },
         {

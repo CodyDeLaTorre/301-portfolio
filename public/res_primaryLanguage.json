@@ -181,14 +181,31 @@
     ],
     "experience": [
       {
-        "company": "Sentar",
-        "title": "Software Test Engineer",
-        "years": "03.2023 - present",
+        "company": "Chameleon Consulting Group",
+        "title": "QA / Test Engineer",
+        "years": "01.2024 - present",
         "mainTech": [
-          "Python"
+          "Python",
+          "Go"
         ],
         "technologies": [
           "Python",
+          "Go",
+          "Pytest",
+          "Go Testing"
+        ]
+      },
+      {
+        "company": "Sentar",
+        "title": "Software Test Engineer",
+        "years": "03.2023 - 01.2024",
+        "mainTech": [
+          "Python",
+          "C++"
+        ],
+        "technologies": [
+          "Python",
+          "C++",
           "Pytest",
           "Gtest",
           "IBM Jazz",
