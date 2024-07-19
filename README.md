@@ -1,10 +1,8 @@
-# Modify this portfolio
+# Portfolio
 
 ## Why?
 
-- Using as current portfolio
-
-- Building this webstie for an assignment in my intermediate software development course
+- Current portfolio
 
 - Link to [live site](https://codys-301-portfolio.netlify.app/)
 
